@@ -2,7 +2,7 @@
 
 We'll gladly chat with you on our Discord server:
 
-[![Chat on Discord](https://img.shields.io/discord/558412685981777922?style=popout-square)](https://discord.gg/KqPVhds)
+[![Chat on Discord](https://img.shields.io/discord/558412685981777922?style=popout-square)](https://discord.gg/UrrPB3T)
 
 For data release notifications, you can follow us on:
 
