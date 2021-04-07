@@ -10,7 +10,9 @@ See [contact page][contact].
 
 - [BSData GitHub][BSDataGH] - organization github homepage.
 - [BSData Catalogue Development Wiki](https://github.com/BSData/catalogue-development/wiki) - getting started, guidelines, tutorials, documentation, data reference.
+- [BattleScribeData AppSpot page][appspot] - browse data list, raise bugs.
 
 [battlescribe]: https://www.battlescribe.net/
 [contact]: /contact.md
 [BSDataGH]: https://github.com/BSData
+[appspot]: https://battlescribedata.appspot.com/#/repos
